@@ -3,8 +3,8 @@ call .venv\Scripts\activate.bat
 pyinstaller ^
 --noconfirm ^
 --name "AutoSplit64plus" ^
---splash "resources\gui\icons\as64plus.png" ^
---icon "resources\gui\icons\as64plus.ico" ^
+--splash "resources\gui\icons\icon.png" ^
+--icon "resources\gui\icons\icon.ico" ^
 --noconsole ^
 --clean ^
 --noupx ^
